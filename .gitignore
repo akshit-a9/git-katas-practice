@@ -3,6 +3,5 @@ git_attributes
 *.swp
 **/exercise/.git/
 **/exercise/.git/*
-**/exercise
 **/remote
 .DS_Store
